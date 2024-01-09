@@ -517,3 +517,39 @@ justify-content: space-between;
 .phone{
     padding: 120px 291px 0px 0px;
 }
+
+hr{
+    background: rgba(255, 255, 255, 0.15);
+    width: 1320px;
+height: 1px;
+
+
+
+}
+.social-links
+{
+padding: 0px 0px 0px 640px;
+margin-top: 48px;
+margin-bottom: 48px;
+
+}
+.color{
+
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+
+
+}
+
+.all{
+    padding: 0px 0px 0px 140px;
+}
+
+.unsubscribe{
+    padding: 0px 0px 0px 940px;
+}
